@@ -1,16 +1,15 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: 꿈을 크게 가지렴 부서져도 조각이 클 수 있게
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+아무것도 모르는 바보 전산과 공대생입니다.    
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- 아직 개발 잘 모릅니다. 주로 알고리즘 문제풀이 많이 합니다.
+- 운동을 좋아합니다. 주로 헬스를 많이 합니다. 
+- 블로그에 개발 관련 글과 운동 기록 많이 기록하겠습니다.
 
-What else do you need?
+### PORTFOLIO
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+~~물론 아직 없음~~  
