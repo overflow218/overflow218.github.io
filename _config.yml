@@ -6,10 +6,10 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: OVERFLOW218의 개발 블로그
 
 # Your name to show in the footer
-author: Some Person
+author: OVERFLOW218	
 
 # --- List of links in the navigation bar --- #
 
@@ -39,7 +39,7 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: "gagu1999@kaist.ac.kr"
   facebook: deanattali
   github: daattali
   twitter: daattali
